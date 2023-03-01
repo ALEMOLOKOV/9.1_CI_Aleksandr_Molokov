@@ -41,7 +41,7 @@
 
 ![Type task all](https://user-images.githubusercontent.com/109212419/222253630-2bb4bbb2-78e2-4f0c-b711-120fec5359a7.jpg)
 
-Созадние Kanban доски и задач
+Созадние Kanban доски и задач, доски редактировал самостоятельно
 
 ![KANBAN](https://user-images.githubusercontent.com/109212419/222253746-7f999516-c681-45a1-b1a1-e49fbc74bb75.jpg)
 
@@ -52,8 +52,11 @@
 ![SCRUM CLOSED](https://user-images.githubusercontent.com/109212419/222253932-104d15e6-01eb-4332-a434-ddcc2d144ef1.jpg)
 
 Схемы workflow
+При попытке добавить workflow есть возможость добавить схемы только из шаблонов
 
 [XML BUG](https://github.com/ALEMOLOKOV/9.1_CI_Aleksandr_Molokov/blob/main/All.xml)
+
+[XML All](https://github.com/ALEMOLOKOV/9.1_CI_Aleksandr_Molokov/blob/main/All.xml)
 
 
 
