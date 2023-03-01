@@ -53,6 +53,8 @@
 
 Схемы workflow
 
+[XML BUG](https://github.com/ALEMOLOKOV/9.1_CI_Aleksandr_Molokov/blob/main/All.xml)
+
 
 
 
