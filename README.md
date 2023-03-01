@@ -53,9 +53,9 @@
 
 Схемы workflow
 
-[XML BUG.txt](https://github.com/ALEMOLOKOV/9.1_CI_Aleksandr_Molokov/files/10864914/XML.BUG.txt)
 
-[XML EPIC.txt](https://github.com/ALEMOLOKOV/9.1_CI_Aleksandr_Molokov/files/10864915/XML.EPIC.txt)
+
+
 
 
 
